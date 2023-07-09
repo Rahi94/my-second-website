@@ -1,0 +1,15 @@
+h3{
+    font-size: 40px;
+    text-decoration: overline;
+}
+.second{
+    visibility: hidden;
+}
+.header{
+    height: 300px;
+    text-align: left;
+    background-image: url('../me.jpg');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
